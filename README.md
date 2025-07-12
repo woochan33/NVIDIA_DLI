@@ -1,4 +1,4 @@
-# 📘 AI 학습 정리  
+# 📘 엔비디아 젯슨나노 시작에 앞서서 해야할것!
 
 ## 1. About GitHub, Markdown, Colab
 - [GitHub 사용법](github-guide.md)
